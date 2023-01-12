@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Teny</h1>
-<h3 align="center">A passionate Data Analysis and frontend developer from Ethiopia and South Sudan</h3>
+<h1 align="center"> What's good👋, I'm Teny</h1>
+<h2 align="center"> Give a resource and instructions and I'll figure it out💻</h2>
+<h3 align="left"> I'm from home of giants; Ethiopia 🎌South Sudan </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=338&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuachteny&label=Profile%20views&color=0e75b6&style=flat" alt="makuachteny" /> </p>
