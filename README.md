@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Webstack development**
 
-- 🌱 I’m currently learning **Regex**
+- 🌱 I’m currently learning **Webstack**
 
 - 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
 
