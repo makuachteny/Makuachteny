@@ -1,5 +1,5 @@
 
-<h1 align="center"> What's good👋, I'm Teny</h1>
+<h1 align="center"> What's good?👋, I'm Teny</h1>
 <h2 align="center"> Passionatly Curious🧑🏿‍💻😎</h2>
 <h3 align="left"> I'm from home of giants; Ethiopia 🎌South Sudan </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=338&ext=jpg">
