@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Webstack development**
 
-- 🌱 I’m currently learning **Webstack**
+- 🌱 I’m currently learning **HTML**
 
 - 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
 
