@@ -1,7 +1,5 @@
 
 <h1 align="center"> What's good?👋, I'm Teny</h1>
-<h2 align="center"> Passionately Curious🧑🏿‍💻😎</h2>
-<h3 align="left"> Embrace the journey and all it's endeavors, still pecking letters? lay one brick at a time, you'll build the wall</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=338&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuachteny&label=Profile%20views&color=0e75b6&style=flat" alt="makuachteny" /> </p>
