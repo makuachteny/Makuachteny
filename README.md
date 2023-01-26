@@ -1,6 +1,6 @@
 
 <h1 align="center"> What's good?👋, I'm Teny</h1>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=338&ext=jpg">
+<img align="right" alt="Coding" width="400" src="Teny.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuachteny&label=Profile%20views&color=0e75b6&style=flat" alt="makuachteny" /> </p>
 <p><a href="https://makuachteny.github.io">
