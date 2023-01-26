@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuachteny&label=Profile%20views&color=0e75b6&style=flat" alt="makuachteny" /> </p>
 <p><a href="https://makuachteny.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makuachteny&show_icons=true&theme=green-green&count_private=true&hide=stars" /> </a></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makuachteny&show_icons=true&theme=green-green&count_private=true&hide=stars" width="400"/> </a></p>
 
 - 🔭 I’m currently working on **Webstack development**
 
