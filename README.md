@@ -1,6 +1,6 @@
 
 <h1 align="center"> What's good?👋, I'm Teny</h1>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=338&ext=jpg">
+<img align="right" alt="Coding" width="400" height="440" src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=338&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuachteny&label=Profile%20views&color=0e75b6&style=flat" alt="makuachteny" /> </p>
 
@@ -13,7 +13,8 @@
 - 📫 How to reach me **m.gatluak@alustudent.com**
 
 - ⚡ Fun fact **I play basketball, Music rocks my world, my best friend is internet.**
-
+<a href="https://jefftrojan.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makuachteny&show_icons=true&theme=green-green&count_private=true&hide=stars" /> </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_teny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_teny" height="30" width="40" /></a>
