@@ -13,7 +13,7 @@
 - 📫 How to reach me **m.gatluak@alustudent.com**
 
 - ⚡ Fun fact **I play basketball, Music rocks my world, my best friend is internet.**
-<a href="https://jefftrojan.github.io">
+<a href="https://makuachteny.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=makuachteny&show_icons=true&theme=green-green&count_private=true&hide=stars" /> </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
