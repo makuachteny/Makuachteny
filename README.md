@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Personal website**
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
+- 🌱 I’m currently learning **Webstack Development**
 
 - 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
 
