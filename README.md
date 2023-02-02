@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
 
-- 📫 How to reach me **m.gatluak@alustudent.com**
-
 - ⚡ Fun fact **I play basketball, Music rocks my world, my best friend is internet.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
