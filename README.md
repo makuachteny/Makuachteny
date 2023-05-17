@@ -6,9 +6,9 @@
 <p><a href="https://makuachteny.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=makuachteny&show_icons=true&theme=green-green&count_private=true&hide=stars" width="400"/> </a></p>
 
-- 🔭 I’m currently working on **My Personal website**
+- 🔭 I’m currently working on **AirBnB Cloning Project**
 
-- 🌱 I’m currently learning **Webstack Development**
+- 🌱 I’m currently learning **Enterprise Web Development**
 
 - 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
 
