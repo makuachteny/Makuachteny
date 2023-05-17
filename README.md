@@ -1,5 +1,6 @@
 
 <h1 align="center"> What's good?👋, I'm Teny</h1>
+<p> It's always a challenge!! </p>
 <img align="right" alt="Coding" width="400" src="Teny.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makuachteny&label=Profile%20views&color=0e75b6&style=flat" alt="makuachteny" /> </p>
