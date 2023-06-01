@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welcome!👋, I'm Teny</h1>
+<h1 align="center"> Hey!👋, I'm Teny</h1>
 <p align="center">Dynamic flow!!</p>
 <img align="right" alt="Coding" width="400" src="Teny.jpg">
 
