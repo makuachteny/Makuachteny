@@ -14,6 +14,7 @@
 - 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
 
 - ⚡ Fun fact **I play basketball, Music rocks my world, my best friend is internet.**
+<h2> Checkout <a href="https://master--incredible-dieffenbachia-4a9136.netlify.app/" target="_blank"> 🧑🏿‍💻My Website</a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_teny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_teny" height="30" width="40" /></a>
