@@ -7,11 +7,9 @@
 <p><a href="https://makuachteny.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=makuachteny&show_icons=true&theme=green-green&count_private=true&hide=stars" width="400"/> </a></p>
 
-- 🔭 I’m currently working on **AirBnB Cloning Project**
+- 🔭 I’m currently working on **Front-end web development**
 
-- 🌱 I’m currently learning **Enterprise Web Development**
-
-- 💬 Ask me about **SQL, Spreadsheets, Data Analysis**
+- 🌱 I’m currently learning **React and Django**
 
 - ⚡ Fun fact **I play basketball, Music rocks my world, my best friend is internet.**
 <h2> Checkout <a href="https://master--incredible-dieffenbachia-4a9136.netlify.app/" target="_blank"> 🧑🏿‍💻My Website</a></h2>
