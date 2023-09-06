@@ -47,7 +47,7 @@ const myHobbies = [
 const favoriteMovie = "Wolf of Wall Street";
 
 if (myHobbies.includes("Watching Movies") && myHobbies.includes(favorite movie)) {
-    console.log(`My favorite movie, "${favoriteMovie}" (Leonardo DiCaprio), is in my list of hobbies.`);
+    console.log(`My favorite movie, "${favoriteMovie}" by (Leonardo DiCaprio and Jonah Hill)`);
 }
 ```
 <br>
