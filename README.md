@@ -13,10 +13,44 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+</div>
 
----
 ### :woman_technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Sudan and Ethiopia.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<pre>
+&#62; ./send_me_an_email
+[m.gatluak@alustudent.com](mailto:m.gatluak@alustudent.com)
+&#62; ./connect_on_linkedin
+[linkedin.com/in/makuachteny](https://www.linkedin.com/in/teny-makuach-4626a523b/)
+&#62; ./visit_my_website
+[personal_website](https://tenymakuach.me)
+</pre>
+
+### - Learning: 
+- React
+- Javascript
+- Flutter
+- Firebase
+- Bootstrap
+
+### - Hobbies
+```javascript
+const myHobbies = [
+    "Reading Novels",
+    "Playing Chess",
+    "Basketball",
+    "Listening to Music",
+    "Watching Movies"
+];
+
+const favoriteMovie = "Wolf of Wall Street";
+
+if (myHobbies.includes("Watching Movies") && myHobbies.includes(favorite movie)) {
+    console.log(`My favorite movie, "${favoriteMovie}" (Leonardo DiCaprio), is in my list of hobbies.`);
+}
+```
+<br>
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -37,14 +71,3 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=makuachteny&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makuachteny&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
-
