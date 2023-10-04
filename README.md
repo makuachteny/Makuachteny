@@ -19,12 +19,7 @@
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <pre>
-&#62; ./send_me_an_email
-[m.gatluak@alustudent.com](mailto:m.gatluak@alustudent.com)
-&#62; ./connect_on_linkedin
-[linkedin.com/in/makuachteny](https://www.linkedin.com/in/teny-makuach-4626a523b/)
-&#62; ./visit_my_website
-[personal_website](https://tenymakuach.me)
+Contact me: m.gatluak@alustudent.com
 </pre>
 
 ### - Learning: 
