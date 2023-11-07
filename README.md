@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <pre>
-Contact me: m.gatluak@alustudent.com
+Contact me: tenymakuach@gmail.com
 </pre>
 
 ### - Learning: 
