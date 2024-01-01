@@ -1,9 +1,12 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/teny-makuach-4626a523b/))
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/[YourInstagramProfile](https://www.instagram.com/m_tenyg/))
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/YourTwitterHandle](https://twitter.com/m_tenyg))
+</div>
+
 </div>
   <img src="https://komarev.com/ghpvc/?username=makuachteny&style=flat-square&color=blue" alt=""/>
 
