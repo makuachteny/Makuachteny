@@ -29,10 +29,10 @@ Contact me: tenymakuach@gmail.com
 </pre>
 
 ### - Learning: 
-- React
-- Javascript
-- Node.js
-- Python
+- Machine learning
+- CNN
+- Databases
+- Servers
 - Data Structures and Algorithms
 ### - Hobbies
 ```javascript
