@@ -38,11 +38,11 @@ Contact me: tenymakuach@gmail.com
 ```javascript
 const MyActivities = () => {
   const myHobbies = [
-    "Reading Novels",
+    "Reading",
     "Playing Chess",
     "Basketball",
     "Listening to Music",
-    "Watching Movies"
+    "Watching Documentaries"
   ];
 
   const favoriteMovie = "The Imitation game";
